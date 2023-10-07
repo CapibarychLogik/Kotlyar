@@ -6,4 +6,9 @@
   color: #0;
   border-radius: 40px;
   outline: none;
+  border: none;
+}
+.container-form button {
+  border: none;
+  background-color: transparent;
 }
