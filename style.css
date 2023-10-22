@@ -1,4 +1,4 @@
-#search-form {
+search-form {
   width: 180px;
   heigth: 30px;
   padding-left: 20px;
@@ -8,7 +8,7 @@
   outline: none;
   border: none;
 }
-.container-form button {
+container-form button {
   border: none;
   background-color: none;
 }
